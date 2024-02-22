@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=NekManchanda&theme=bear)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekManchanda&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekManchanda&exclude_repo=criss-software-workshop&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
