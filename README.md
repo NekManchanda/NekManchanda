@@ -1,4 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nek-manchanda-59b18b26b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NekManchanda&style=flat-square&color=blue" alt=""/>
+</div>
+<h2>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ,Nek here!
+</h2>
 
 <!--
 **NekManchanda/NekManchanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
